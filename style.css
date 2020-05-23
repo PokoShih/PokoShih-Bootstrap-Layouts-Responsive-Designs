@@ -6,10 +6,7 @@ html {
   width: 200px;
   margin: 0 20px 10px 0;
 }
-body {
-  background-image: url("https://i.pinimg.com/originals/23/e7/6b/23e76b9437ea6d9ed105dce1bc4d061c.jpg");
-  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-}
+
 
 .block {
   padding: 30px;
@@ -47,7 +44,7 @@ main {
 }
 
 body {
-  background-image: url("https://i.pinimg.com/originals/23/e7/6b/23e76b9437ea6d9ed105dce1bc4d061c.jpg");
+  background-image: url("Assets/background-image.PNG");
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .row {

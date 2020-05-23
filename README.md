@@ -15,3 +15,9 @@ updated links for the website.
 
 All links on page are operational.
 Did not need to use media query
+
+23/05/2020 9:32pm
+
+Few updates on background-image and content Typos
+
+
